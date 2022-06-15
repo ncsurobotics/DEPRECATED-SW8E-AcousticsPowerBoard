@@ -1,0 +1,27 @@
+*DIODES_INC_SPICE_MODEL_PDS560
+*ORIGIN=DZSL_DPG_SU
+*SIMULATOR=PSPICE
+*DATE=4/08/2014
+*VERSION=1
+
+.MODEL PDS560 D (IS=18E-8 RS=0.018 ISR=20E-8  BV=60.0 IBV=1u 
++ CJO=500p  M=0.4 VJ=.4 N=.97  IKF=.35 EG=.69 XTI=1.5 NR=1.2 TT=20n)
+
+
+
+
+*                (c)  2014 Diodes Inc
+*
+*   The copyright in these models  and  the designs embodied belong
+*   to Diodes Incorporated (" Zetex ").  They  are  supplied
+*   free of charge by Zetex for the purpose of research and design
+*   and may be used or copied intact  (including this notice)  for
+*   that purpose only.  All other rights are reserved.  The models
+*   are believed accurate but no condition  or warranty  as to their
+*   merchantability or fitness for purpose is given and no liability
+*   in respect of any use is accepted by Diodes Incorporated, its distributors
+*   or agents.
+*
+*   Diodes Zetex Semiconductors Ltd, Zetex Technology Park, Chadderton,
+*   Oldham, United Kingdom, OL9 9LL
+*
