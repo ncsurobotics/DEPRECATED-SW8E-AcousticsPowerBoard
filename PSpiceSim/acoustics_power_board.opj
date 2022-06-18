@@ -105,15 +105,7 @@
      "C:\Users\wkels\Documents\NCSU URC\ONSEMI_SUPERFET3_650_FAST_PSPICE")
   (GlobalState
     (FileView
-      (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\Public\Documents\Altium\Projects\SW8E-AcousticsPowerBoard\PSpiceSim\acoustics_power_board.dsn")
-      (Path "Design Resources"
-         "C:\Users\Public\Documents\Altium\Projects\SW8E-AcousticsPowerBoard\PSpiceSim\acoustics_power_board.dsn"
-         "SCHEMATIC1")
-      (Select "Design Resources"
-         "C:\Users\Public\Documents\Altium\Projects\SW8E-AcousticsPowerBoard\PSpiceSim\acoustics_power_board.dsn"
-         "SCHEMATIC1" "PAGE1"))
+      (Path "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -124,8 +116,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1396 24 837")
-        (Scroll "-165 -9")
-        (Zoom "106")
+        (Scroll "1853 684")
+        (Zoom "424")
         (Occurrence "/"))
       (Path
          "C:\USERS\PUBLIC\DOCUMENTS\ALTIUM\PROJECTS\SW8E-ACOUSTICSPOWERBOARD\PSPICESIM\ACOUSTICS_POWER_BOARD.DSN")
